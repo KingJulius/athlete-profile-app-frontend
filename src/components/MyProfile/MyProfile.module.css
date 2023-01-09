@@ -1,0 +1,34 @@
+.myprofile {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5%;
+}
+
+.myprofile-container .header {
+  padding-top: 2%;
+  flex: 20%;
+  display: grid;
+  justify-content: center;
+}
+
+.myprofile-container .body {
+  margin-left: 10px;
+}
+
+.myprofile-container label {
+  margin-left: 10px;
+  width: 100%;
+  height: 40px;
+  padding-left: 5px;
+  font-size: 20px;
+}
+
+.image {
+  margin-left: 10px;
+  width: 200px;
+  height: 200px;
+}
