@@ -11,12 +11,13 @@
 .myprofile-container .header {
   padding-top: 2%;
   flex: 20%;
-  display: grid;
   justify-content: center;
+  
 }
 
 .myprofile-container .body {
   margin-left: 10px;
+  height: 100%;
 }
 
 .myprofile-container label {
